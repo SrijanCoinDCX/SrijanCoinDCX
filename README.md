@@ -1,6 +1,9 @@
 # Hi there!
 ## A warm welcome to you!
 ### I'm Srijan Samridh
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
+
 #### A Tech Optimist and Highly Curious Techy about Technology!!
 from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
 <br>
