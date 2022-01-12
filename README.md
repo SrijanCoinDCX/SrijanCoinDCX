@@ -1,13 +1,15 @@
-### Hi there 👋 I'm Srijan Samridh
-
+## Hi there 👋 I'm Srijan Samridh
+### I am Tech Optimist and Highly Curious about Technology!!
  from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
 <br>
 I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/SrijanSamridh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/srijan-samridh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/srijansamridh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/SrijanSamridh)  
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh)](https://github.com/anuraghazra/github-readme-stats)
- ### Hi there 👋, Srijan Samridh
-#### I am Tech Optimist and Highly Curious about Technology!!
-![I am Tech Optimist and Highly Curious about Technology!!](https://media-exp1.licdn.com/dms/image/C4E16AQF-GR7i3wuPPg/profile-displaybackgroundimage-shrink_350_1400/0/1614244832393?e=1647475200&v=beta&t=RMT920nmL9MCl8aguQ8AywbBNIhPZFCP82icwtZageI)
+
+
+![I am Tech Optimist and Highly Curious about Technology!!]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
