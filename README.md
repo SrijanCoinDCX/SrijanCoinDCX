@@ -30,7 +30,7 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <!-- 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU) -->
 
-<img src="https://media3.giphy.com/media/xT8qB2HYA1vVSxooSY/100.webp?cid=ecf05e47jf5gitbhl9zz0k29pyn2qiblrnui9y65d9kjv1rt&rid=100.webp&ct=g" width="100%"/>
+<img src="https://media0.giphy.com/media/l0IyeheChYxx2byDu/200w.webp?cid=ecf05e479op8hgdwfbtsiixcr51g0qahr6t1jtmnmv4330hi&rid=200w.webp&ct=g" width="100%"/>
  
  <br>and to know more about me <b>you can get on Google<b> -->  
   https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8
