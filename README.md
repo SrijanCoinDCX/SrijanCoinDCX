@@ -24,12 +24,12 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
- <div style='float:right'>
+![imageonline-co-roundcorner](https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png)
 ![I am Tech Optimist and Highly Curious about Technology!!](https://ascuretech.com/images/android-app-development-top.png)
- </div>
+
 <!-- 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU) -->
-![imageonline-co-roundcorner](https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png)
+
 
  
  <br>and to know more about me <b>you can get on Google<b> -->  
