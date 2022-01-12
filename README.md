@@ -25,8 +25,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 ![I am Tech Optimist and Highly Curious about Technology!!](https://ascuretech.com/images/android-app-development-top.png)
-
-![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU)
+<!-- 
+![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU) -->
 
  
  <br>and to know more about me <b>you can get on Google<b> -->  
