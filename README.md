@@ -1,5 +1,6 @@
-# Welcome To My GitHub Profile 
-## Hi there! I'm Srijan Samridh
+# Hi there!
+## Welcome To My GitHub Profile 
+### I'm Srijan Samridh
 #### A Tech Optimist and Highly Curious Techy about Technology!!
  from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
 <br>
