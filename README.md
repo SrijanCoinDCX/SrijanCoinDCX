@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Srijan Samridh
 
-I'm Srijan Samridh from India, I am very curious about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
+ from India, I am very curious about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
 <br>
 I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
  
