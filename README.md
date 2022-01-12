@@ -1,3 +1,9 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrijanSamridh&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SrijanSamridh&repo=convoychat" />
+</a>
 ## Hi there 👋 I'm Srijan Samridh
 ### I am Tech Optimist and Highly Curious about Technology!!
  from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
@@ -9,7 +15,7 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![I am Tech Optimist and Highly Curious about Technology!!]
+I am Tech Optimist and Highly Curious about Technology!
 
 
 
