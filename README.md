@@ -2,8 +2,7 @@
 ## A warm welcome to you!
 ### I'm Srijan Samridh
 #### A Tech Optimist and Highly Curious Techy about Technology!!
-![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU)
- from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
+from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.
 <br>
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
@@ -11,6 +10,7 @@
 
 
 I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
+ ![www.instagrm.com/srijansamridh!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU)
  
  
 
