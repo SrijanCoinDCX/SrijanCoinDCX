@@ -25,15 +25,15 @@ I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I h
 <img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 > <h3> Brife Info About me!!</h3>
-> <p>
-So, I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Science Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
+ <p>
+> So, I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Science Engineering and am interested in a variety of technologies and > > topics. I enjoy learning about new technology and applying them to real-world situations.
 </p>
 <p>
 Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
 </p>
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions! 
  
-<img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
+> <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
