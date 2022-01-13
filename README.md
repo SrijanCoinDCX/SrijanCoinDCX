@@ -47,7 +47,7 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <br>
 <br>
 <div align="right">
-    <p align="left">and to know more about me <b>you can get on Google</b><br>
+    <p align="left">and to know more about me <b>you can get me on Google</b><br>
     CLICK THE ICON BELOW ---></p>
     <a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
     <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
@@ -55,7 +55,8 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
     
 </div>
 <br>
-<img align="right" height="190" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
+<hr>
+<img align="right" height="160" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
 <img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 
