@@ -20,7 +20,7 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
  
  
 
-<div style="float:right">
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
 ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras)
