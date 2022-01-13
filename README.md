@@ -1,11 +1,12 @@
 # Hi there!
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
-</p>
-<hr>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFFFFF&size=36&center=true&vCenter=true&width=350&height=54&lines=Srijan+Samridh+Here!"></a>
 </div>
+<hr>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
@@ -57,7 +58,7 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <br>
 <br>
 <hr>
-<img align="right" height="300" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:30%">
+<img align="right" width="600" height="300" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
 <img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 
