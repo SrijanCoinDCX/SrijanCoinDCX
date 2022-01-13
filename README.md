@@ -21,7 +21,9 @@ from India, I am a curious Techy about ML & AI ....and I'm trying to be a great 
 I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
  
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
- I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
+<p>
+I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
+</p>
 <p>
 Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
 </p>
@@ -43,8 +45,10 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <br>
 <br>
 <br>
- <p align="right"> <--- and to know more about me <b>you can get on Google</b> </p>
-<a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8"></a>
+ <p align="right">and to know more about me <b>you can get on Google</b><br> CLICK THE ICON BELOW ---> </p>
+<a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
+<img align="right" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
+</a>
 <img src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
 
 
