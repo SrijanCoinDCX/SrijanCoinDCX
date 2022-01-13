@@ -18,6 +18,12 @@ from India, I am a curious Techy about ML & AI ....and I'm trying to be a great 
 
 I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
  
+<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
+ I'm a Software Developer and ML enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
+    
+Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
+
+I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions! 
  
 <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
@@ -25,10 +31,11 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
 </span>
 
-<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
+ 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
+ 
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://ascuretech.com/images/android-app-development-top.png)
 ![imageonline-co-roundcorner](https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png)
