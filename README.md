@@ -1,5 +1,7 @@
 # Hi there!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230D880C&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=%230D880C&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!">
 ### I'm Srijan Samridh
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
