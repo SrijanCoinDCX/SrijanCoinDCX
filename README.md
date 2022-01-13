@@ -57,7 +57,7 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 </div>
 <br>
 <hr>
-<img align="right" height="160" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
+<img align="right" height="200" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
 <img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 
