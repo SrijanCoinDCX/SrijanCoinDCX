@@ -31,12 +31,12 @@ I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in 
 Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
 </p>
 I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions! 
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
-<p align="right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact" alt=""></a>
-</p>
+
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
