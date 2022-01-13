@@ -35,7 +35,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
  
-<img align="right" src="https://ascuretech.com/images/android-app-development-top.png"></a>
+<img align="right" height="300" src="https://ascuretech.com/images/android-app-development-top.png"></a>
  
  <br>and to know more about me <b>you can get on Google<b> -->  
   https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8
