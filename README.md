@@ -27,7 +27,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
  
 <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
-<img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
+<img align="right" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
 
 
  
