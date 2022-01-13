@@ -3,9 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%230D880C&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
 </p>
 <hr>
-### I'm Srijan Samridh
+<h1>Srijan Samridh Here!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
 
 <p align="center"><strong>A Tech Optimist and Highly Curious Techy about Technology!!</strong><br>
 from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.</p>
