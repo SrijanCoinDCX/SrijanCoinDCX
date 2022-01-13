@@ -50,7 +50,7 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
     <p align="left">and to know more about me <b>you can get on Google</b><br>
     CLICK THE ICON BELOW ---></p>
     <a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
-    <img align="right" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
+    <img align="center" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
     </a>
     
 </div>
