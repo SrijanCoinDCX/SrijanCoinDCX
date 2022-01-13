@@ -27,7 +27,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
  
 <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
-<img align="right" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
 
 
  
@@ -35,9 +35,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
  
-
-![I am Tech Optimist and Highly Curious about Technology!!](https://ascuretech.com/images/android-app-development-top.png)
-![imageonline-co-roundcorner](https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png)
+<img align="right" src="https://ascuretech.com/images/android-app-development-top.png"></a>
+<img align="right" src="https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png"></a>
+<!-- ![I am Tech Optimist and Highly Curious about Technology!!](https://ascuretech.com/images/android-app-development-top.png)
+![imageonline-co-roundcorner](https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png) -->
 <!-- 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWtp7WyunEwkTlGoMBOfGgopTBOr1wP71dG8AvUSrzUMszrjEIVHUyyARgQ9XJ5sJgzjQ&usqp=CAU) -->
 
