@@ -25,7 +25,7 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
 </span>
 
-
+<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
