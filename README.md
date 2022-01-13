@@ -1,6 +1,6 @@
 # Hi there!
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%230D880C&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
 </p>
 <hr>
 <h1 align="center">Srijan Samridh Here!</h1>
@@ -18,16 +18,11 @@ from India, I am a curious Techy about ML & AI ....and I'm trying to be a great 
 I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
  
  
- 
+<img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
-
- <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
-<!-- ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras) -->
 <span align="right">
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
 </span>
-
-
 
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
