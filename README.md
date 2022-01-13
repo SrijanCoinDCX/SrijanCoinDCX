@@ -22,7 +22,6 @@ I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I h
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-[comment]: <> (<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />)
 <img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
 
 <p>
@@ -38,10 +37,10 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
 
- 
+Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
+
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
  
 <img align="left" height="330" src="https://ascuretech.com/images/android-app-development-top.png">
  
@@ -61,7 +60,6 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <hr>
 <img align="right" height="400" width="1000" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
 
-[comment]: <> (<img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />)
 
 
 
