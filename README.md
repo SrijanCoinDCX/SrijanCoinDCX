@@ -19,7 +19,6 @@ from India, I am a curious Techy about ML & AI ....and I'm trying to be a great 
 
 
 I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
-<hr>
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
