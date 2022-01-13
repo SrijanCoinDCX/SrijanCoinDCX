@@ -3,7 +3,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
 </p>
 <hr>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFFFFF&size=36&center=true&vCenter=true&width=350&height=54&lines=Srijan+Samridh+Here!"></a>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFFFFF&size=36&center=true&vCenter=true&width=350&height=54&lines=Srijan+Samridh+Here!"></a>
+</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
@@ -35,12 +37,15 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
  
-<img align="left" height="400" src="https://ascuretech.com/images/android-app-development-top.png"></a>
+<img align="left" height="330" src="https://ascuretech.com/images/android-app-development-top.png"></a>
  
- <p align="right">and to know more about me <b>you can get on Google<b> -->  
-  https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8
- </p>
-![I am Tech Optimist and Highly Curious about Technology!!](https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg)
+<br>
+<br>
+<br>
+<br>
+ <p align="right"> <--- and to know more about me <b>you can get on Google</b> </p>
+<a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8"></a>
+<img src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="">
 
 
 
