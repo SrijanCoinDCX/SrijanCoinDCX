@@ -3,7 +3,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I'm+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
 </p>
 <hr>
-<h1 align="center">Srijan Samridh Here!</h1>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%23FFFFFF&size=36&lines=Srijan+Samridh+Here!"></a></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
 
