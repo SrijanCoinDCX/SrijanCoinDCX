@@ -40,7 +40,6 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
  <p align="right">and to know more about me <b>you can get on Google<b> -->  
   https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8
  </p>
- <img align="right" src="https://user-images.githubusercontent.com/74289654/149053887-3ed3037a-7811-423f-b174-770fdaaf954e.png"></a>
 ![I am Tech Optimist and Highly Curious about Technology!!](https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg)
 
 
