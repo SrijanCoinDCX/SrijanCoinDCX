@@ -20,9 +20,9 @@ I also enjoy <b>Blogging and Entrepreneurship<b>...and as blogger I have more th
  
  
 
-<div align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
+<p align="right">
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact"></a>
+ </p>
 ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras)
 
 
