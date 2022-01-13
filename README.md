@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
 
-<p align="center">#### A Tech Optimist and Highly Curious Techy about Technology!!
+<p align="center"><strong>A Tech Optimist and Highly Curious Techy about Technology!!</strong><br>
 from India, I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift.</p>
 <br>
 
