@@ -22,7 +22,9 @@ I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I h
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
 
-<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
+[comment]: <> (<img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />)
+<img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
+
 <p>
 I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
 </p>
@@ -57,8 +59,9 @@ Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
 <br>
 <br>
 <hr>
-<img align="right" height="300" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
-<img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
+<img align="right" height="300" width="700" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
+
+[comment]: <> (<img align="left" height="230" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />)
 
 
 
