@@ -35,7 +35,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
  
 > <img src="https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true&theme=highcontras">
 
-> <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
+< <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
 
 > Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
@@ -65,7 +65,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <br>
 <br>
 <hr>
-> <img align="right" height="400" width="1000" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
+<img align="right" height="400" width="1000" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
 
 
 
