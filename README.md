@@ -19,9 +19,10 @@ from India, I am a curious Techy about ML & AI ....and I'm trying to be a great 
 
 
 I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh 
+<hr>
 
 ## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
-<hr>
+
 <img align="right" height="350" alt="My Octocat" src="https://user-images.githubusercontent.com/55637484/138565818-67728dce-a634-41e5-bf1f-1f1f7fa28b07.png" />
 <p>
 I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Engineering and am interested in a variety of technologies and topics. I enjoy learning about new technology and applying them to real-world situations.
