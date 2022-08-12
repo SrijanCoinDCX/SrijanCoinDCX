@@ -1,6 +1,6 @@
 # Hi there!
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=36&lines=Srijan+Samridh+Here!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=white&size=36&lines=Srijan+Samridh+Here!"></a>
 </p>
 <hr>
 <div align="center">
