@@ -40,7 +40,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
 
-> Skills: Python / JAVA / Flutter / Kotlin / HTML / CSS / JS
+> Skills: Python / JAVA / Flutter / React / HTML / CSS / JS /C++ /OOPS /DBMS
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
