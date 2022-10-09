@@ -45,7 +45,7 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 
-<img align="left" height="330" src="https://ascuretech.com/images/android-app-development-top.png">
+<img align="left" height="330" src="https://cdn.pixabay.com/photo/2013/10/22/07/56/android-199225_1280.jpg">
 
 <br>
 <br>
