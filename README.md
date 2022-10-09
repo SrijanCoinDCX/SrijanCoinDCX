@@ -67,5 +67,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <br>
 <br>
 <hr>
-<img align="right" height="400" width="1000" src="https://www.hackingwithswift.com/uploads/swift-evolution-4.jpg" alt="" style="border-radius:20%">
+<img align="right" height="400" width="1000" src="images/swiftLogo.jpeg" alt="" style="border-radius:20%">
 
