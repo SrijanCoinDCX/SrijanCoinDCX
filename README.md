@@ -4,7 +4,7 @@
 </p>
 <hr>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+Samridh+a++passionate;++and+curious++coder!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+Samridh+a++fullstack+MobileApp++Dev;++and+curious++coder!"></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
