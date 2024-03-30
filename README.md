@@ -1,7 +1,7 @@
 # Hi there!
 <hr>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Bhawna+a++fullstack++Developer;++and+curious++coder!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+a++fullstack++Developer;++and+curious++coder!"></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -32,9 +32,9 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 <br>
 <br>
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhawnaGrover&show_icons=true)
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhawnaGrover&layout=compact">
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
 
 
 > Skills: Python / JAVA / Flutter / React / HTML / CSS / JS /C++ /OOPS /DBMS
