@@ -1,10 +1,7 @@
 # Hi there!
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E4F7EFFF&size=36&lines=Srijan+Samridh+Here!!"></a>
-</p>
 <hr>
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+Samridh+a++fullstack+MobileApp++Dev;++and+curious++coder!"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Bhawna+a++fullstack++Developer;++and+curious++coder!"></a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -35,9 +32,9 @@ I'm a problem solver at heart, highly teachable and ready to acquire new abiliti
 <br>
 <br>
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhawnaGrover&show_icons=true)
 
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
+<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhawnaGrover&layout=compact">
 
 
 > Skills: Python / JAVA / Flutter / React / HTML / CSS / JS /C++ /OOPS /DBMS
@@ -54,7 +51,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <div align="right">
     <p align="left">and to know more about me <b>you can get me on Google</b><br>
     CLICK THE ICON BELOW ---></p>
-    <a href="https://www.google.com/search?q=srijan+samridh&oq=Srijan&aqs=chrome.1.69i57j35i39l2j46i175i199i512l3j0i512j0i67i131i433j46i175i199i512j0i512.2006j0j15&sourceid=chrome&ie=UTF-8">
     <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
     </a>
     <a href="https://www.instagram.com/srijansamridh/">
