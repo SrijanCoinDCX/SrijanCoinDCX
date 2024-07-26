@@ -25,21 +25,8 @@ I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I h
 <p>
  So, I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Science Engineering and am interested in a variety of technologies and >  topics. I enjoy learning about new technology and applying them to real-world situations.
 </p>
-<p>
-Aside from that, I enjoy blogging, mentoring newcomers, and building something from what I've learned. Bullet journaling has recently sparked my interest. I'm a big productivity and minimalism freak, and I'm constantly reading up on or trying out productivity hacks in an attempt to live a more balanced and thoughtful life. If you have any questions about technology, I'm pleased to assist you.
-</p>
-I'm a problem solver at heart, highly teachable and ready to acquire new abilities, enjoyable to work with, have a strong work ethic, and, most importantly, I'm incredibly curious and ask a lot of questions! 
-<br>
-<br>
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
-
-<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
-
-
-> Skills: Python / JAVA / Flutter / React / HTML / CSS / JS /C++ /OOPS /DBMS
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+> ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
 
 
 <img align="left" height="330" src="images/android-199225.jpg"> 
@@ -60,8 +47,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
         <img align="left" height="40" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" alt="">
     </a>
 </div>
-<br>
-<br>
-<hr>
-<img align="right" height="400" width="1000" src="images/swiftLogo.jpeg" alt="" style="border-radius:20%">
+
 
