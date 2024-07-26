@@ -1,5 +1,5 @@
 # Hi there!, 
-## You Can checkout Personal GitHub Repo [SrijanSamridh](https://github.com/SrijanCoinDCX)
+# You Can checkout Personal GitHub Repo [SrijanSamridh](https://github.com/SrijanCoinDCX)!
 <hr>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+a++fullstack++Developer;++and+curious++coder!"></a>
