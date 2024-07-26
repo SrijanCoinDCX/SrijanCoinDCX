@@ -13,8 +13,6 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
 
-<img align="left" height="330" src="images/android-199225.jpg"> 
-
 <br>
 <br>
 <br>
@@ -31,5 +29,7 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
         <img align="left" height="40" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" alt="">
     </a>
 </div>
+<img align="left" height="330" src="images/android-199225.jpg"> 
+
 
 
