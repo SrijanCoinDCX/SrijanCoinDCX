@@ -15,8 +15,7 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 <br>
 <br>
 <div align="right">
-    <p align="left">and to know more about me <b>you can get me on Google</b><br>
-    CLICK THE ICON BELOW ---></p>
+    <p align="left">and to know more about me <b>you can get me on Google</b>Click the ICONS below ---></p>
     <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
     </a>
     <a href="https://www.instagram.com/srijansamridh/">
