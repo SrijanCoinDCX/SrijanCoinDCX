@@ -25,11 +25,10 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
     <a href="https://www.linkedin.com/in/srijan-samridh/">
         <img align="left" height="40" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" alt="">
     </a>
+    <img align="left" height="330" src="images/android-199225.jpg"> 
 </div>
 <br>
 <br>
-
-<img align="left" height="330" src="images/android-199225.jpg"> 
 
 > ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
 
