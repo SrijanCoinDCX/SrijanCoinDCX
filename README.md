@@ -15,15 +15,16 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 <br>
 <br>
 <div align="right">
-    <p align="left">and to know more about me <b>you can get me on Google</b>Click the ICONS below ---></p>
-    <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
-    </a>
-    <a href="https://www.instagram.com/srijansamridh/">
-        <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
-    </a>
-    <a href="https://www.linkedin.com/in/srijan-samridh/">
-        <img align="left" height="40" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" alt="">
-    </a>
+    <p align="left">and to know more about me <b>you can get me on Google</b>Click the ICONS --->
+        <img align="left" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/800px-Google_%22G%22_Logo.svg.png" alt="">
+        </a>
+        <a href="https://www.instagram.com/srijansamridh/">
+            <img align="left" height="40" src="https://i.pinimg.com/originals/b1/8a/b5/b18ab5c717e6da2faa7f30a2ccf20c72.png" alt="">
+        </a>
+        <a href="https://www.linkedin.com/in/srijan-samridh/">
+            <img align="left" height="40" src="https://raw.githubusercontent.com/DAVIDS2405/DAVIDS2405/main/assets/linkedin.png" alt="">
+        </a>
+    </p>
     <br>
     <br>
     <img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrijanSamridh&layout=compact">
