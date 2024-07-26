@@ -12,7 +12,6 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 <br>
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
-
 <br>
 <br>
 <div align="right">
@@ -29,7 +28,11 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 </div>
 <br>
 <br>
+
 <img align="left" height="330" src="images/android-199225.jpg"> 
-> ![srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
+
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
+
+
 
 
