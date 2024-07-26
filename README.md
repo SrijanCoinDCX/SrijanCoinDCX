@@ -1,4 +1,4 @@
-# <h1>Hi there!<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">,<br/>Checkout My Personal GitHub Profile [@SrijanSamridh](https://github.com/SrijanSamridh)!<h1>
+# <h1>Hi there!,<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px"><br/>Checkout My Personal GitHub Profile [@SrijanSamridh](https://github.com/SrijanSamridh)!<h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+a++fullstack++Developer;++and+curious++coder!"></a>
