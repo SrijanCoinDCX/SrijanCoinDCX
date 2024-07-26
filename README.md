@@ -1,4 +1,4 @@
-# <h1>Hi there!,<br/>Checkout My Personal GitHub Profile [@SrijanSamridh](https://github.com/SrijanSamridh)!<h1>
+# <h1>Hi there!<img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">,<br/>Checkout My Personal GitHub Profile [@SrijanSamridh](https://github.com/SrijanSamridh)!<h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+a++fullstack++Developer;++and+curious++coder!"></a>
@@ -12,22 +12,6 @@ I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS
 <br>
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
-
-
-
-I also enjoy <strong>Blogging and Entrepreneurship</strong>...and as blogger I have more than 13.6k family on Instagram which I'm really greatfull about www.instagrm.com/srijansamridh
-
-## Glad to see you here! <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
-
-<img align="right" height="300" alt="My Octocat" src="https://ouch-cdn2.icons8.com/_2uDJ10-ae2PpZyzobx2YJpqI5v-4c7IOzqWa9paqMQ/rs:fit:1368:912/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMzAx/L2Y1ZWI5ZGEwLTM3/ZWMtNDUxYy1iODNl/LTVjMzc1NGU5NjQx/NC5zdmc.png" />
-
-> <h3> Brife Info About me!!</h3>
-<p>
- So, I'm a Software Developer and ML & AI enthusiast pursuing a Bachelor's degree in Computer Science Engineering and am interested in a variety of technologies and >  topics. I enjoy learning about new technology and applying them to real-world situations.
-</p>
-
-> ![Srijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrijanSamridh&show_icons=true)
-
 
 <img align="left" height="330" src="images/android-199225.jpg"> 
 
