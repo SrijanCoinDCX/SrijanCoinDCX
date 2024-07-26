@@ -1,4 +1,4 @@
-# <h1>Hi there!,<br/>You Can checkout Personal GitHub Repo [SrijanSamridh](https://github.com/SrijanCoinDCX)!<h1>
+# <h1>Hi there!,<br/>Checkout My Personal GitHub Repo [SrijanSamridh](https://github.com/SrijanCoinDCX)!<h1>
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2318FF16&size=26&lines=Welcome+to+my+GitHub+profile%2C;+I+am+Srijan+a++fullstack++Developer;++and+curious++coder!"></a>
