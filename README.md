@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SrijanSamridh&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanSamridh" /> </p>
 
 <p align="center"><strong>A Tech Optimist and Highly Curious Techy, from India!!</strong><br>
-I am a curious Techy about ML & AI ....and I'm trying to be a great Android, IOS App Developer at the same time. I really enjoy learning Languages like pyhton, dart, java as welll as Kotlin and Swift and many more.</p>
+I'm a keen techy interested in machine learning and artificial intelligence, as well as a skilled Mobile app developer. I enjoy exploring new languages such as Python, Dart, Java, Kotlin, Swift, and many more.</p>
 <br>
 
 ![I am Tech Optimist and Highly Curious about Technology!!](https://doit.software/wp-content/uploads/2021/08/flutter-app-development-cover.png)
